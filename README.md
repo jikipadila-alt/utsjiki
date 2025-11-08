@@ -1,8 +1,7 @@
 Panduan Instalasi
-1. Clone Project
-git clone https:
-2. Install Dependensi
-composer install
+1. Clone Project git clone https://github.com/jikipadila-alt/utsjiki.git
+
+2. composer install
 
 4. Konfigurasi File Environment (env)
 cp env .env
