@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sensus API CI4
 
 RESTful API untuk sistem pendataan **Sensus Penduduk** menggunakan **CodeIgniter 4** dan **MySQL**.  
@@ -30,3 +31,6 @@ LinkedIn: [linkedin.com/in/kukuhpratama](https://www.linkedin.com/in/kukuhpratam
 ---
 
 "Design should make technology feel simple, not complex."
+=======
+
+>>>>>>> fc266d8f55e96e5d44ae0ceb8e0b4825fd21be52
