@@ -16,21 +16,5 @@ Mendukung fitur **CRUD**, **pagination**, **searching**, serta **autentikasi JWT
 
 ---
 
-## Teknologi
-- PHP 8+  
-- CodeIgniter 4 (RESTful)  
-- MySQL Database  
-- JWT (Firebase PHP JWT Library)
-
-## Author
-**Kukuh Nur Pratama**  
-iOS Developer and Apple Ecosystem Enthusiast  
-GitHub: [pratama6624](https://github.com/pratama6624)  
-LinkedIn: [linkedin.com/in/kukuhpratama](https://www.linkedin.com/in/kukuhpratama)
-
----
-
-"Design should make technology feel simple, not complex."
-=======
 
 >>>>>>> fc266d8f55e96e5d44ae0ceb8e0b4825fd21be52
